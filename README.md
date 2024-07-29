@@ -11,7 +11,6 @@
 - 📫 How to reach me **dipeshmundhara09@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZC4fyZIgYNALNrNF_4DBD-PY4IHfkWO7/view?usp=sharing](https://drive.google.com/file/d/1ZC4fyZIgYNALNrNF_4DBD-PY4IHfkWO7/view?usp=sharing)
-
 - ⚡ Fun fact **I think I am Funny😉**
 
 <h3 align="left">Connect with me:</h3>
