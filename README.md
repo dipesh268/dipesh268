@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Explorer;Open+Source+Contributor;Let's+Build+Cool+Stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Backend+Developer;MERN+Stack+Explorer;Open+Source+Contributor;Let's+Build+Cool+Stuff!" alt="Typing SVG" />
 </p>
 
 ![logo](https://github.com/dipesh268/dipesh268/blob/main/template_photo.png)
 <h1 align="center">Hi 👋, I'm Dipesh Mundhara</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Backend Developer from India 🇮🇳</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
