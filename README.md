@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Backend+Developer;MERN+Stack+Explorer;Open+Source+Contributor;Let's+Build+Cool+Stuff!;Djando Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Backend+Developer;MERN+Stack+Explorer;Open+Source+Contributor;Let's+Build+Cool+Stuff!;Django+Developer" alt="Typing SVG" />
 </p>
 
 ![logo](https://github.com/dipesh268/dipesh268/blob/main/template_photo.png)
