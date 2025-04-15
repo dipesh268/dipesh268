@@ -14,7 +14,7 @@
 
 - 🎓 I'm currently pursuing **MCA**
 - 💻 Passionate about Full Stack Development and exploring new technologies
-- 💬 Ask me about **ASP.NET, PHP with Ecxpress.Js, and MERN Stack**
+- 💬 Ask me about **ASP.NET, PHP with Express.Js, and MERN Stack**
 - 📫 Reach me at **dipeshmundhara09@gmail.com**
 - 📄 [Check out my resume](https://drive.google.com/file/d/1HzWX2ZGkF4ZmW3dD1E2bOwmasi6UqLPs/view?usp=drive_link)
 - ⚡ Fun fact: **I think I’m funny 😉**
